@@ -1,7 +1,11 @@
-.App {
-  height: 100vh;
+body{
   background-color: #0d1116;
-  overflow: scroll;
+
+}
+.App {
+  height:100%;
+  background-color: #0d1116;
+
   text-align: center;
 }
 
