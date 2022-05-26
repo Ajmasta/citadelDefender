@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/citadelDefender/static/css/main.86290243.chunk.css",
+    "main.js": "/citadelDefender/static/js/main.a3ba07aa.chunk.js",
+    "main.js.map": "/citadelDefender/static/js/main.a3ba07aa.chunk.js.map",
+    "runtime-main.js": "/citadelDefender/static/js/runtime-main.14b625e3.js",
+    "runtime-main.js.map": "/citadelDefender/static/js/runtime-main.14b625e3.js.map",
+    "static/js/2.b88f8009.chunk.js": "/citadelDefender/static/js/2.b88f8009.chunk.js",
+    "static/js/2.b88f8009.chunk.js.map": "/citadelDefender/static/js/2.b88f8009.chunk.js.map",
+    "index.html": "/citadelDefender/index.html",
+    "static/css/main.86290243.chunk.css.map": "/citadelDefender/static/css/main.86290243.chunk.css.map",
+    "static/js/2.b88f8009.chunk.js.LICENSE.txt": "/citadelDefender/static/js/2.b88f8009.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.ab177c79.svg": "/citadelDefender/static/media/twitter-logo.ab177c79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14b625e3.js",
+    "static/js/2.b88f8009.chunk.js",
+    "static/css/main.86290243.chunk.css",
+    "static/js/main.a3ba07aa.chunk.js"
+  ]
+}
